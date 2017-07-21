@@ -1,0 +1,129 @@
+.giveasap-box {
+  border:1px dashed rgba(0,0,0,0.5);
+	padding: 0.5em;
+	text-align: center;
+
+  > * {
+    box-sizing: border-box;
+  }
+}
+.giveasap-entries-title {
+	padding-top: 10px;
+}
+.giveasap_sharing {
+  padding: 0 1.5em;
+  list-style: none;
+  margin:0;
+}
+.giveasap_sharing:after {
+	content:'';
+	clear: both;
+	display: table;
+
+}
+.giveasap_sharing li {
+  float: left;
+  width: 100%;
+  min-height: 40px;
+  padding: 0 0.5em;
+  line-height: 40px;
+  margin-bottom: 1em;
+  display: block;
+}
+.giveasap_sharing li:nth-child(3),
+.giveasap_sharing li:nth-child(5) {
+	clear: both;
+}
+.giveasap_sharing li a {
+  display: block;
+  width: 100%;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 0.75em;
+  padding: 0 0.5em;
+  text-align: left;
+  padding-left: 50px;
+  position: relative;
+  color: white;
+  border-radius: 3px;
+  overflow: hidden;
+
+  &:hover {
+    color: rgba(225,225,225,0.75) !important;
+  }
+}
+.giveasap_sharing li .fa,
+.giveasap_sharing li a:before {
+  position: absolute;
+  left: 0;
+  line-height: 40px;
+  width: 40px;
+  color: white;
+  text-align: center;
+}
+.giveasap_sharing li a:before {
+  transition: width .4s ease;
+  content: '';
+  display: block;
+  width: 0px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.giveasap_sharing li input {
+  background-color: #efefef;
+  width: 100%;
+  display: block;
+  height: 40px;
+}
+.giveasap_sharing li .giveasap_description {
+  line-height: 1em;
+  font-size: 0.75em;
+  font-style: italic;
+  margin-bottom: 0;
+}
+.sharing_method .fa {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.giveasap_sharing li.sharing_method:hover a:before {
+  width: 100%;
+}
+.giveasap_facebook a {
+  background-color: #3b5998;
+}
+.giveasap_twitter a {
+  background-color: #1da1f2;
+}
+.giveasap_gplus a {
+  background-color: #db4437;
+}
+.giveasap_linkedin a {
+  background-color: #287bbc;
+}
+.giveasap_pinterest a {
+  background-color: #bd081c;
+}
+
+.widget_giveasap_widget {
+  
+  > * {
+    box-sizing: border-box;
+  }
+
+  .giveasap_sharing li {
+    margin-bottom: .5em;
+    border-top:0;
+    padding-top:0;
+
+    a:hover {
+      box-shadow:none;
+    }
+
+    &.giveasap_link {
+      p {
+        margin-top:0.25em;
+      }
+    }
+  }
+}

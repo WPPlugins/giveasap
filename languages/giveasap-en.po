@@ -1,0 +1,822 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GiveASAP\n"
+"POT-Creation-Date: 2017-03-28 14:39+0200\n"
+"PO-Revision-Date: 2017-03-28 14:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__;_x;_n\n"
+"X-Poedit-SearchPath-0: giveasap.php\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: admin\n"
+"X-Poedit-SearchPath-3: public/templates\n"
+
+#: admin/class-ga-column.php:35
+msgid "Column key is not defined"
+msgstr ""
+
+#: admin/class-ga-column.php:98
+msgid "Shortcode"
+msgstr ""
+
+#: admin/custom-metabox.php:12 admin/documentation/screens.php:177
+msgid "Users"
+msgstr ""
+
+#: admin/custom-metabox.php:30
+msgid "Registered users:"
+msgstr ""
+
+#: admin/custom-metabox.php:32
+msgid "Expand Users"
+msgstr ""
+
+#: admin/custom-metabox.php:59
+msgid "Winners"
+msgstr ""
+
+#: admin/custom-metabox.php:63
+msgid "Email"
+msgstr ""
+
+#: admin/custom-metabox.php:64
+msgid "Notified"
+msgstr ""
+
+#: admin/custom-metabox.php:85
+msgid "Select Winner(s)"
+msgstr ""
+
+#: admin/custom-metabox.php:92 admin/custom-metabox.php:98
+msgid "Notify Winner(s)"
+msgstr ""
+
+#: admin/custom-metabox.php:104
+msgid "Export CSV"
+msgstr ""
+
+#: admin/documentation/screens.php:17
+msgid "Simple Giveaways Documentation"
+msgstr ""
+
+#: admin/documentation/screens.php:18
+msgid ""
+"Read documentation and find out how to use Simple Giveaways to create "
+"giveaways"
+msgstr ""
+
+#: admin/documentation/screens.php:21 admin/documentation/screens.php:230
+msgid "General"
+msgstr ""
+
+#: admin/documentation/screens.php:22 includes/class-menu.php:254
+msgid "Settings"
+msgstr ""
+
+#: admin/documentation/screens.php:23
+msgid "PRO"
+msgstr ""
+
+#: admin/documentation/screens.php:68
+msgid "Get a 30% Discount on PRO"
+msgstr ""
+
+#: admin/documentation/screens.php:69
+msgid ""
+"You will subscribe to Simple Giveaways list and receive updates about this "
+"and others plugins which I have built"
+msgstr ""
+
+#: admin/documentation/screens.php:71
+msgid "Email Address"
+msgstr ""
+
+#: admin/documentation/screens.php:79
+msgid "Subscribe"
+msgstr ""
+
+#: admin/documentation/screens.php:88
+msgid "About the Author"
+msgstr ""
+
+#: admin/documentation/screens.php:93
+msgid ""
+"I am a Web developer who works mostly with WordPress. I am developing free & "
+"premium themes and plugins."
+msgstr ""
+
+#: admin/documentation/screens.php:94
+#, php-format
+msgid ""
+"WordPress is more than a CMS to me. I look on it as an application framework "
+"on which I love to build custom solutions. One of them is %s."
+msgstr ""
+
+#: admin/documentation/screens.php:96
+#, php-format
+msgid ""
+"I also teach about WordPress and how to develop with it on my own websites: "
+"%s."
+msgstr ""
+
+#: admin/documentation/screens.php:115
+msgid "Giveaway Content"
+msgstr ""
+
+#: admin/documentation/screens.php:117
+msgid "Title & URL"
+msgstr ""
+
+#: admin/documentation/screens.php:120
+msgid "Title"
+msgstr ""
+
+#: admin/documentation/screens.php:120
+msgid "This will show on the front side as the main giveaway title"
+msgstr ""
+
+#: admin/documentation/screens.php:121
+msgid "URL"
+msgstr ""
+
+#: admin/documentation/screens.php:121
+msgid ""
+"Regular WordPress permalink that will show the giveaway. Each giveaway will "
+"go under yoursite.com/giveaway"
+msgstr ""
+
+#: admin/documentation/screens.php:126 admin/documentation/screens.php:129
+msgid "Content"
+msgstr ""
+
+#: admin/documentation/screens.php:129
+msgid ""
+"Regular WordPress content as used in any post. This will be used for "
+"description of your giveaway. Be descriptive and show what your visitor will "
+"get if they win."
+msgstr ""
+
+#: admin/documentation/screens.php:136
+msgid "Giveaway Scheduling"
+msgstr ""
+
+#: admin/documentation/screens.php:140
+msgid "Start, End & Winner Date"
+msgstr ""
+
+#: admin/documentation/screens.php:140
+msgid ""
+"Select a date with the datepicker when the giveaway starts, ends and when "
+"the winner is announced"
+msgstr ""
+
+#: admin/documentation/screens.php:141
+msgid "Start, End & Winner Time"
+msgstr ""
+
+#: admin/documentation/screens.php:141
+msgid "Select the time for each of them also using the dropdown."
+msgstr ""
+
+#: admin/documentation/screens.php:148 admin/documentation/screens.php:153
+#: admin/giveasap-cpt-metabox.php:125
+msgid "Prize"
+msgstr ""
+
+#: admin/documentation/screens.php:152 admin/giveasap-cpt-metabox.php:103
+msgid "Number of winners"
+msgstr ""
+
+#: admin/documentation/screens.php:152
+msgid "Insert a number to define how many winners will be selected."
+msgstr ""
+
+#: admin/documentation/screens.php:153
+msgid ""
+"Insert the prize title that will be used in emails to your subscribers when "
+"they sign up or win."
+msgstr ""
+
+#: admin/documentation/screens.php:154 admin/giveasap-cpt-metabox.php:133
+msgid "Value"
+msgstr ""
+
+#: admin/documentation/screens.php:154
+msgid "Insert a value which will be shown on the page of this giveaway."
+msgstr ""
+
+#: admin/documentation/screens.php:161
+msgid "Text Settings"
+msgstr ""
+
+#: admin/documentation/screens.php:163 admin/giveasap-cpt-metabox.php:109
+#: public/templates/template1.php:102
+#: public/templates/template1_image-right.php:98
+#: public/templates/template1_image.php:99 public/templates/template2.php:100
+#: public/templates/template3.php:100
+msgid "Rules"
+msgstr ""
+
+#: admin/documentation/screens.php:165
+msgid ""
+"Write your own rules as you want. The more the better. You can hide most of "
+"the text by using the \"more\" tag to dislay a button which when clicked "
+"will show the other text."
+msgstr ""
+
+#: admin/documentation/screens.php:169
+msgid "Winner Email"
+msgstr ""
+
+#: admin/documentation/screens.php:171
+msgid ""
+"This email will be sent to the winner or winners. You can write what ever "
+"you want here but be very descriptive and precise when it comes to send "
+"emails to winners. This is important for them to know how to get their prize."
+msgstr ""
+
+#: admin/documentation/screens.php:179
+msgid "Running Giveaway"
+msgstr ""
+
+#: admin/documentation/screens.php:181
+msgid ""
+"While the giveaway is still running, you can only view which visitors "
+"subscribed and also export them into an CSV file."
+msgstr ""
+
+#: admin/documentation/screens.php:185
+msgid "Ended Giveaway"
+msgstr ""
+
+#: admin/documentation/screens.php:187
+msgid ""
+"When the giveaway has ended, you can click to select Winners alongside "
+"everything you could do before."
+msgstr ""
+
+#: admin/documentation/screens.php:191
+msgid "Winners Selected"
+msgstr ""
+
+#: admin/documentation/screens.php:193
+msgid ""
+"After you have selected the winners, you can also notify them. You can see "
+"the winners here and if they were notified already."
+msgstr ""
+
+#: admin/documentation/screens.php:199
+msgid "Display"
+msgstr ""
+
+#: admin/documentation/screens.php:203 admin/giveasap-cpt-metabox.php:141
+msgid "Logo"
+msgstr ""
+
+#: admin/documentation/screens.php:203
+msgid ""
+"Choose the logo image to show on the giveaway page. This can be a logo of "
+"the sponsor or even of your site."
+msgstr ""
+
+#: admin/documentation/screens.php:204 admin/giveasap-cpt-metabox.php:149
+msgid "Images"
+msgstr ""
+
+#: admin/documentation/screens.php:204
+msgid ""
+"Select as many images as you want. You may even order them how you want them "
+"to appear."
+msgstr ""
+
+#: admin/documentation/screens.php:205 admin/giveasap-cpt-metabox.php:156
+msgid "Background Color"
+msgstr ""
+
+#: admin/documentation/screens.php:205
+msgid ""
+"Choose a simple color for the background. If there is no background image, "
+"this color will be diplayed. So choose a color that will be gentle to the "
+"eyes of your visitors."
+msgstr ""
+
+#: admin/documentation/screens.php:211
+msgid ""
+"All this images are used for social networks when your subscribers share "
+"them on their profiles. Create different and funny images so that people "
+"will click them. Be aware for the colors to stand out and that are different "
+"than the colors of the social network."
+msgstr ""
+
+#: admin/documentation/screens.php:216
+msgid "You can choose a nice image to show as the background image."
+msgstr ""
+
+#: admin/documentation/screens.php:233
+msgid ""
+"You can use the default text for the email that will welcome your new "
+"subscribers and give them both the link to view their entries and also the "
+"sharing link. Be sure to use those placeholders if you are writing your own "
+"welcome email."
+msgstr ""
+
+#: admin/documentation/screens.php:238 includes/class-menu.php:284
+msgid "Google Captcha"
+msgstr ""
+
+#: admin/documentation/screens.php:241
+#, php-format
+msgid ""
+"If you want to prevent spammers from subscribing, you can easily set a "
+"google captcha by providing your own google catpcha public and secret key. "
+"Click here to get it: %s"
+msgstr ""
+
+#: admin/documentation/screens.php:252
+msgid "Automate"
+msgstr ""
+
+#: admin/documentation/screens.php:255
+msgid ""
+"Automate everything. Traveling, spending time with your family or something "
+"else? You can let WordPress select the Winners and notify them while you are "
+"away. Don't let your subscribers wait."
+msgstr ""
+
+#: admin/documentation/screens.php:260
+msgid "Entries"
+msgstr ""
+
+#: admin/documentation/screens.php:263
+msgid "Reward your subscribers who share your giveaways with extra entries."
+msgstr ""
+
+#: admin/documentation/screens.php:268
+msgid "Templates"
+msgstr ""
+
+#: admin/documentation/screens.php:271
+msgid "Choose different templates and host different giveaways."
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:17
+msgid ""
+"The Date will be formatted on the front end with the format that is set in "
+"Settings > General."
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:18
+msgid "The format used here is Day-Month-Year"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:55
+msgid "Start Date"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:62
+msgid "Start Time"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:70
+msgid "End Date"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:77
+msgid "End Time"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:85
+msgid "Winner Announcement Date"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:92
+msgid "Winner Announcement Time"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:104
+msgid "How many winners can be selected"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:111
+msgid "Rules will show at the bottom"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:128
+msgid "1 year Subscription Plan"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:136
+msgid "$100.00"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:163
+msgid "Pinterest Image"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:170
+msgid "Facebook Image"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:177
+msgid "Twitter Image"
+msgstr ""
+
+#: admin/giveasap-cpt-metabox.php:184
+msgid "Google+ Image"
+msgstr ""
+
+#: includes/abstracts/settings.php:333
+msgid "There are no settings on these page."
+msgstr ""
+
+#: includes/abstracts/settings.php:418
+msgid "Add Images"
+msgstr ""
+
+#: includes/abstracts/settings.php:479
+msgid "Add Image"
+msgstr ""
+
+#: includes/class-ga-installer.php:80 includes/class-menu.php:271
+msgid "You have enrolled to {{TITLE}}. Good Luck!"
+msgstr ""
+
+#: includes/class-ga-installer.php:81 includes/class-menu.php:279
+msgid ""
+"Thank you for subscribing to {{TITLE}}<br/>You can check your entries at "
+"{{ENTRY_LINK}}<br/>To get more entries and have a higher chance of winning, "
+"please do share your link: {{SHARE_LINK}}"
+msgstr ""
+
+#: includes/class-menu.php:141
+msgid "Save"
+msgstr ""
+
+#: includes/class-menu.php:255
+msgid "GiveASAP Settings"
+msgstr ""
+
+#: includes/class-menu.php:262
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-menu.php:269
+msgid "Subscriber Subject"
+msgstr ""
+
+#: includes/class-menu.php:270
+msgid ""
+"Subject that will be sent to new subscribers.<br/>Placeholders:<br/> "
+"{{TITLE}} : giveaway title"
+msgstr ""
+
+#: includes/class-menu.php:276
+msgid "Subscriber Email"
+msgstr ""
+
+#: includes/class-menu.php:277
+msgid ""
+"Notification email with the links. <br/>Placeholders:<br/> {{TITLE}} : "
+"giveaway title<br/>{{ENTRY_LINK}} : link to see their entries with sharing "
+"button<br/>{{SHARE_LINK}} : link to share"
+msgstr ""
+
+#: includes/class-menu.php:291
+msgid "Google CAPTCHA - Site Key"
+msgstr ""
+
+#: includes/class-menu.php:296
+msgid "Google CAPTCHA - Secret Key"
+msgstr ""
+
+#: includes/class-sharer-facebook.php:40
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/class-sharer-gplus.php:33
+msgid "Share on Google+"
+msgstr ""
+
+#: includes/class-sharer-link.php:45
+msgid "Copy and share the link where you want."
+msgstr ""
+
+#: includes/class-sharer-link.php:53
+msgid "Share Link"
+msgstr ""
+
+#: includes/class-sharer-linkedin.php:40
+msgid "Share on LinkedIN"
+msgstr ""
+
+#: includes/class-sharer-pinterest.php:69
+msgid "Pin it"
+msgstr ""
+
+#: includes/class-sharer-twitter.php:40
+msgid "Tweet it"
+msgstr ""
+
+#: includes/class-status.php:164 includes/giveasap-template-functions.php:95
+#: includes/shortcode.php:124 public/templates/template1.php:78
+msgid "Ended"
+msgstr ""
+
+#: includes/class-status.php:175
+msgid "Selected Winners"
+msgstr ""
+
+#: includes/class-status.php:186
+msgid "Winners Notified"
+msgstr ""
+
+#: includes/giveasap-cpt.php:11 includes/giveasap-cpt.php:42
+msgid "Simple Giveaways"
+msgstr ""
+
+#: includes/giveasap-cpt.php:12 includes/giveasap-cpt.php:14
+msgid "Giveaway"
+msgstr ""
+
+#: includes/giveasap-cpt.php:13
+msgid "Giveaways"
+msgstr ""
+
+#: includes/giveasap-cpt.php:15
+msgid "Giveaway Archives"
+msgstr ""
+
+#: includes/giveasap-cpt.php:16
+msgid "Parent Giveaway:"
+msgstr ""
+
+#: includes/giveasap-cpt.php:17
+msgid "All Giveaways"
+msgstr ""
+
+#: includes/giveasap-cpt.php:18
+msgid "Add New Giveaway"
+msgstr ""
+
+#: includes/giveasap-cpt.php:19
+msgid "Add New"
+msgstr ""
+
+#: includes/giveasap-cpt.php:20
+msgid "New Giveaway"
+msgstr ""
+
+#: includes/giveasap-cpt.php:21
+msgid "Edit Giveaway"
+msgstr ""
+
+#: includes/giveasap-cpt.php:22
+msgid "Update Giveaway"
+msgstr ""
+
+#: includes/giveasap-cpt.php:23
+msgid "View Giveaway"
+msgstr ""
+
+#: includes/giveasap-cpt.php:24
+msgid "Search Giveaway"
+msgstr ""
+
+#: includes/giveasap-cpt.php:25
+msgid "Not found"
+msgstr ""
+
+#: includes/giveasap-cpt.php:26
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/giveasap-cpt.php:27
+msgid "Featured Image"
+msgstr ""
+
+#: includes/giveasap-cpt.php:28
+msgid "Set featured image"
+msgstr ""
+
+#: includes/giveasap-cpt.php:29
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/giveasap-cpt.php:30
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/giveasap-cpt.php:31
+msgid "Insert into GiveASAP"
+msgstr ""
+
+#: includes/giveasap-cpt.php:32
+msgid "Uploaded to this GiveASAP"
+msgstr ""
+
+#: includes/giveasap-cpt.php:33
+msgid "Giveaway list"
+msgstr ""
+
+#: includes/giveasap-cpt.php:34
+msgid "Giveaway list navigation"
+msgstr ""
+
+#: includes/giveasap-cpt.php:35
+msgid "Filter Giveaway list"
+msgstr ""
+
+#: includes/giveasap-cpt.php:36
+msgid "Background Image"
+msgstr ""
+
+#: includes/giveasap-cpt.php:37
+msgid "Set background image"
+msgstr ""
+
+#: includes/giveasap-cpt.php:38
+msgid "Remove background image"
+msgstr ""
+
+#: includes/giveasap-cpt.php:39
+msgid "Use as background image"
+msgstr ""
+
+#: includes/giveasap-front.php:383 includes/giveasap-front.php:389
+msgid "Google Captcha failed"
+msgstr ""
+
+#: includes/giveasap-front.php:413
+msgid "The secret parameter is missing."
+msgstr ""
+
+#: includes/giveasap-front.php:414
+msgid "The secret parameter is invalid or malformed."
+msgstr ""
+
+#: includes/giveasap-front.php:415
+msgid "The response parameter is missing."
+msgstr ""
+
+#: includes/giveasap-front.php:416
+msgid "The response parameter is invalid or malformed."
+msgstr ""
+
+#: includes/giveasap-front.php:425
+msgid "Something went wrong with Captcha. Try again."
+msgstr ""
+
+#: includes/giveasap-front.php:450
+msgid "Email is empty"
+msgstr ""
+
+#: includes/giveasap-front.php:456
+msgid "Email is already subscribed"
+msgstr ""
+
+#: includes/giveasap-front.php:469
+msgid "Thank you, {{TITLE}} for entering in this giveaway"
+msgstr ""
+
+#: includes/giveasap-front.php:491
+msgid "Something went wrong. Try again please."
+msgstr ""
+
+#: includes/giveasap-functions.php:38
+#, php-format
+msgid "Congratulations, you have won %s"
+msgstr ""
+
+#: includes/pro.php:52
+msgid "Template"
+msgstr ""
+
+#: includes/pro.php:55
+msgid "Vertical"
+msgstr ""
+
+#: includes/pro.php:56
+msgid "Images Aside (L)"
+msgstr ""
+
+#: includes/pro.php:57
+msgid "Images Aside (R)"
+msgstr ""
+
+#: includes/pro.php:58
+msgid "Fixed Form"
+msgstr ""
+
+#: includes/pro.php:59
+msgid "Bottom Form"
+msgstr ""
+
+#: includes/pro.php:73
+msgid "Automate this giveaway"
+msgstr ""
+
+#: includes/pro.php:75
+msgid "Check if you want winners to be selected automatically and notified"
+msgstr ""
+
+#: includes/pro.php:168
+msgid "Referral Entries"
+msgstr ""
+
+#: includes/pro.php:169
+msgid "How much entries will a referer get"
+msgstr ""
+
+#: includes/shortcode.php:66 includes/widget.php:74
+#: public/templates/template1.php:60
+#: public/templates/template1_image-right.php:56
+#: public/templates/template1_image.php:56 public/templates/template2.php:56
+#: public/templates/template3.php:56
+msgid "Enter your email"
+msgstr ""
+
+#: includes/shortcode.php:72 includes/widget.php:80
+#: public/templates/template1.php:65
+#: public/templates/template1_image-right.php:61
+#: public/templates/template1_image.php:62 public/templates/template2.php:62
+#: public/templates/template3.php:62
+msgid "Enter"
+msgstr ""
+
+#: includes/shortcode.php:107
+msgid "You are participating in this giveaway"
+msgstr ""
+
+#: includes/shortcode.php:108 public/templates/template1.php:71
+#: public/templates/template1_image-right.php:67
+#: public/templates/template1_image.php:68 public/templates/template2.php:69
+#: public/templates/template3.php:69
+msgid "Your Current Entries:"
+msgstr ""
+
+#: includes/shortcode.php:109 public/templates/template1.php:72
+#: public/templates/template1_image-right.php:68
+#: public/templates/template1_image.php:69 public/templates/template2.php:70
+#: public/templates/template3.php:70
+msgid "Share & collect entries"
+msgstr ""
+
+#: includes/shortcode.php:127 includes/widget.php:83
+msgid "Read more about it here."
+msgstr ""
+
+#: includes/widget.php:118
+msgid "Select a Giveaway"
+msgstr ""
+
+#: includes/widget.php:131
+msgid "There is no Giveaway currently running"
+msgstr ""
+
+#: public/templates/template1.php:39
+#: public/templates/template1_image-right.php:37
+#: public/templates/template1_image.php:37 public/templates/template2.php:35
+#: public/templates/template3.php:35
+#, php-format
+msgid "%s <small>winner</small>"
+msgstr ""
+
+#: public/templates/template1.php:43
+#: public/templates/template1_image-right.php:41
+#: public/templates/template1_image.php:41 public/templates/template2.php:39
+#: public/templates/template3.php:39
+msgid "Value:"
+msgstr ""
+
+#: public/templates/template1.php:87
+#: public/templates/template1_image-right.php:83
+#: public/templates/template1_image.php:84 public/templates/template2.php:85
+#: public/templates/template3.php:85
+msgid "Ends:"
+msgstr ""
+
+#: public/templates/template1.php:95
+#: public/templates/template1_image-right.php:91
+#: public/templates/template1_image.php:92 public/templates/template2.php:93
+#: public/templates/template3.php:93
+msgid "Winner Announcement:"
+msgstr ""
+
+#: public/templates/template1.php:108
+#: public/templates/template1_image-right.php:104
+#: public/templates/template1_image.php:105 public/templates/template2.php:106
+#: public/templates/template3.php:106
+msgid "Show Rules"
+msgstr ""
+
+#: public/templates/template1.php:121
+msgid "Powered by Simple Giveaways"
+msgstr ""

@@ -1,0 +1,24 @@
+.sortable_wordpress_gallery li.attachment {
+	width:  141px;
+	height: 141px;
+}
+.sortable_wordpress_gallery {
+	display: block;
+}
+.sortable_wordpress_gallery:after {
+	display: table;
+	content: '';
+	clear: both;
+}
+
+#giveasap_display .form-table tbody td:last-child {
+	width: 200px;
+}
+
+#giveasap_display .wp-picker-open+.wp-picker-input-wrap {
+	display: block;
+}
+
+#giveasap_display .iris-picker.iris-border {
+	margin-left: -100px;
+}
